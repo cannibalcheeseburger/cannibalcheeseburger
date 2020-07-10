@@ -1,1 +1,1 @@
-![wd](https://github.com/cannibalcheeseburger/cannibalcheeseburger/blob/master/Capture.PNG)
+![wd](https://github.com/cannibalcheeseburger/cannibalcheeseburger/blob/master/Capture2.PNG)
