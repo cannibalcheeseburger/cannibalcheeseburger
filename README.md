@@ -1,3 +1,3 @@
 # HEYA STALKER
 
-![](./Capture.png)
+![wd](./Capture.PNG)
