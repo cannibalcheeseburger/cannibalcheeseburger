@@ -1,3 +1,3 @@
 # HEYA STALKER
 
-![wd](./Capture.PNG)
+![wd](https://github.com/cannibalcheeseburger/cannibalcheeseburger/blob/master/Capture.PNG)
