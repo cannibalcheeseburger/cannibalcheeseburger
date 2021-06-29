@@ -1,1 +1,1 @@
-![wd](https://github.com/cannibalcheeseburger/cannibalcheeseburger/blob/master/image3.PNG)
+# Always add boundary condition to recursive functions
